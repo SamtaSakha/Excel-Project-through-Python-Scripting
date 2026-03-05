@@ -93,7 +93,3 @@ College and school category separation
 
 Data validation & duplicate removal
 
-##  Author
-
-### Samta Sakha
-Python | Data Science | Automation
