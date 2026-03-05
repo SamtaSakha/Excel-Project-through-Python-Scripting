@@ -1,5 +1,5 @@
 #### Excel-Project-through-Python-Scripting
-# School & College Contact Data Scraper (Delhi, Gurgaon, Noida)
+# School & College Contact Data Scraper 
 
 ## 📌 Project Overview
 This project is a **Python-based web scraping automation tool** designed to collect publicly available contact information of **schools and colleges** located in **Delhi, Gurgaon, and Noida**.
